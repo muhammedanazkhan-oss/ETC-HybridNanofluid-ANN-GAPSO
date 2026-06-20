@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Reduced-order solver, dataset, ANN surrogate and GA-PSO optimisation for a hybrid-nanofluid evacuated-tube collector"
+message: "If you use this software or dataset, please cite both this archive and the associated article."
+type: software
+authors:
+  - family-names: Khan
+    given-names: Muhammed Anaz
+    affiliation: "Department of Mechanical Engineering, College of Engineering, University of Bisha, Bisha, Saudi Arabia"
+    orcid: "https://orcid.org/0000-0002-8837-9865"
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-20"
+keywords:
+  - hybrid nanofluid
+  - evacuated-tube solar collector
+  - performance evaluation criterion
+  - artificial neural network surrogate
+  - memetic GA-PSO optimisation
+  - pumping-power ratio
