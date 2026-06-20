@@ -1,0 +1,10 @@
+pair,carrier,w_pct,s1_pct,Vdot_lpm,phi_hnf,dP_kPa,PEC_f,PEC_eps
+Al2O3-Cu,Distilled water,0.56,25,0.5,0.0008,0.13,1.0016,0.999997
+Al2O3-Cu,EG/water 60:40,3.0,25,1.71,0.0048,1.58,1.0085,0.999909
+Al2O3-Cu,Synthetic HTF oil,0.25,25,0.5,0.0003,0.6,1.0003,0.99957
+Graphene-TiO2,Distilled water,0.25,25,0.5,0.0007,0.13,0.9992,0.998602
+Graphene-TiO2,EG/water 60:40,0.25,25,0.5,0.0008,0.22,0.9992,0.998619
+Graphene-TiO2,Synthetic HTF oil,0.25,25,0.5,0.0006,0.61,0.9996,0.998969
+MWCNT-Fe3O4,Distilled water,0.25,25,0.5,0.0006,0.13,0.9994,0.998782
+MWCNT-Fe3O4,EG/water 60:40,0.25,25,1.62,0.0007,1.24,0.9994,0.998799
+MWCNT-Fe3O4,Synthetic HTF oil,0.25,25,0.5,0.0006,0.61,0.9997,0.999052
